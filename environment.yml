@@ -1,0 +1,16 @@
+# RHS3 analysis environment. Versions below are compatible reference releases;
+# set mauve / iqtree to the versions you actually used before release.
+name: rhs3
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.9
+  - biopython=1.81
+  - pandas=2.0.3
+  - jcvi=1.3.6
+  - blast=2.14.0
+  - exonerate=2.4.0
+  - mafft=7.520
+  - mauve            # progressiveMauve; set actual version
+  - iqtree           # scripts call iqtree3 (IQ-TREE v3); set actual version

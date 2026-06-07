@@ -1,0 +1,34 @@
+# Intermediate and large files
+*.fai
+*.index
+*.nin
+*.nhr
+*.nsq
+*.ndb
+*.not
+*.ntf
+*.nto
+*.nog
+*.xmfa
+*.xmfa.backbone
+*.xmfa.bbcols
+
+# IQ-TREE run products
+*.ckp.gz
+*.model.gz
+*.splits.nex
+*.bionj
+*.mldist
+*.uniqueseq.phy
+
+# Generated intermediate dirs
+gffs/
+beds/
+blast_results/
+exonerate_result/
+
+# System / editor
+.DS_Store
+__pycache__/
+*.pyc
+.idea/
