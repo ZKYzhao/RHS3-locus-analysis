@@ -1,6 +1,6 @@
 # Comparative genomic and phylogenetic analysis of the RHS3 locus
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20579120.svg)](https://doi.org/10.5281/zenodo.20579120)
 
 Code accompanying **X. He *et al.*, "A tripartite genetic conflict system controls hybrid sterility in
 rice," *Science* (2026)**.
@@ -68,7 +68,7 @@ paper and supplement); bulky intermediates are not version-controlled.
 
 > X. He *et al.*, "A tripartite genetic conflict system controls hybrid sterility in rice," *Science* (2026).
 
-Archived code: Zenodo (2026); https://doi.org/10.5281/zenodo.XXXXXXX (replace after minting the DOI).
+Archived code: Zenodo (2026); https://doi.org/10.5281/zenodo.20579120.
 
 ## License
 
