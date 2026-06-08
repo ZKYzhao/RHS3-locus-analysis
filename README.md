@@ -1,13 +1,9 @@
 # Comparative genomic and phylogenetic analysis of the RHS3 locus
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20579120.svg)](https://doi.org/10.5281/zenodo.20579120)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20579119.svg)](https://doi.org/10.5281/zenodo.20579119)
 
 Code accompanying **X. He *et al.*, "A tripartite genetic conflict system controls hybrid sterility in
 rice," *Science* (2026)**.
-
-Downstream bioinformatics code for analyzing the **RHS3 locus** across multiple *Oryza* genomes.
-Every script is parameterized (no hard-coded private paths or sample names) so the workflow can be
-reproduced on public data; each file carries a one-line purpose header.
 
 ## Workflow
 
@@ -68,7 +64,7 @@ paper and supplement); bulky intermediates are not version-controlled.
 
 > X. He *et al.*, "A tripartite genetic conflict system controls hybrid sterility in rice," *Science* (2026).
 
-Archived code: Zenodo (2026); https://doi.org/10.5281/zenodo.20579120.
+Archived code: Zenodo (2026); https://doi.org/10.5281/zenodo.20579119.
 
 ## License
 
